@@ -1,0 +1,28 @@
+{
+	"places": [{
+			"city": "London",
+			"country": "England",
+			"coverImage": "img/london.jpg",
+			"description":"It's little wonder London, England is one of the world's top tourist destinations, attracting upward of 20 million visitors each year from around the world. Britain's capital city is a vibrant arts and entertainment center (its theaters are always busy), and 50 years after The Beatles, the country's music scene still rocks.",
+			"id": 1
+		},
+		{
+			"city": "Paris",
+			"country": "France",
+			"coverImage": "img/paris.jpg",
+			"description": "We’re sure you’ve got those most obvious of Paris sights and attractions right at the top of your holiday hit list. But what else should you try to squeeze into your packed Parisian itinerary? There’s almost too much to see and do in the French capital, let’s be honest, so we’re here to give you some guidance. From a charming mecca for bibliophiles to a stunning off-the-beaten-track park near Belleville, trust us: you’ll never get bored in the City of Light. This is our ultimate guide to sightseeing in Paris.",
+			"id": 2
+		},
+		{
+			"city": "Rome",
+			"country": "Italy",
+			"coverImage": "img/rome.jpg",
+			"description": "In a city so filled with icons of antiquity and the Christian faith, it's hard to know where to go first. Of course, your own interests will govern your choices, but there are certain sites that are almost obligatory landmarks of Italy and of all Europe, such as the Colosseum and the Pantheon.",
+			"id": 3
+		}
+	]
+
+}
+
+
+

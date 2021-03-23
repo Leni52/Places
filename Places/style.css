@@ -1,0 +1,106 @@
+body{
+    background: #FAFFF8;
+background: -moz-linear-gradient(left, #FAFFF8 0%, #D6D6D6 69%, #CAC4CE 100%);
+background: -webkit-linear-gradient(left, #FAFFF8 0%, #D6D6D6 69%, #CAC4CE 100%);
+background: linear-gradient(to right, #FAFFF8 0%, #D6D6D6 69%, #CAC4CE 100%);
+
+}
+img{
+    width: 350px;
+
+}
+
+
+input{
+        box-shadow: 0px 10px 14px -7px #276873;
+        background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+        background-color:#599bb3;
+        border-radius:8px;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:20px;
+        font-weight:bold;
+        padding:11px 32px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #3d768a;
+        border: 4px outset #FFE8E8;
+    }
+    .myButton:hover {
+        background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+        background-color:#408c99;
+    }
+    .myButton:active {
+        position:relative;
+        top:1px;
+    }
+    .p3{
+        font-family:"Comic Sans MS", cursive, sans-serif;
+font-size: 20px;
+letter-spacing: 0.6px;
+word-spacing: 2px;
+color: #462007;
+font-weight: 300;
+text-decoration: none;
+font-style: italic;
+font-variant: normal;
+text-transform: capitalize;
+border: 2px solid rgba(13,50,74,0.77);
+border-radius: 10px;
+    }
+    .p1{
+        font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 24px;
+letter-spacing: -0.4px;
+word-spacing: 0px;
+color: #000000;
+font-weight: 700;
+text-decoration: underline rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+    }
+    .p2{
+        font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 20px;
+letter-spacing: -0.4px;
+word-spacing: 0px;
+color: #000000;
+font-weight: 500;
+text-decoration: rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+    }
+    h1{
+        font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 36px;
+letter-spacing: 3.4px;
+word-spacing: 4px;
+color: #000000;
+font-weight: 700;
+text-decoration: underline rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+
+    }
+    
+    .b1{
+        box-shadow:inset 0px 39px 0px -24px #e67a73;
+        background-color:#e4685d;
+        border-radius:10px;
+        border:1px solid #ffffff;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:15px;
+        font-weight:bold;
+        padding:9px 15px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #b23e35;
+    }
+   
+        
