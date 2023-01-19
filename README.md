@@ -1,4 +1,4 @@
 # Places
 Simple JavaScript
 
-Reading from JSON file, with creating HTTPRequest.
+Reading from JSON file.
